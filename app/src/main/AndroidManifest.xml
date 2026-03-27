@@ -3,6 +3,7 @@
     <application
         android:allowBackup="true"
         android:label="AttestationTest"
+        android:theme="@style/Theme.AttestationTest"
         android:supportsRtl="true">
 
         <activity
