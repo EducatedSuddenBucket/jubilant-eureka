@@ -1,2 +1,4 @@
 rootProject.name = 'AttestationApp'
 include ':app'
+android.useAndroidX=true
+android.enableJetifier=true
